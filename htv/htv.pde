@@ -8,11 +8,11 @@ void setup() {
     o++;
     }
     print(pom);
-    textSize(40);
+    textSize(45);
     textAlign(CENTER);
     fill(0);
     stroke(0);
-    text(pom,width/2,12);
+    text(pom,width/2,42);
 }
 void draw() {
   
